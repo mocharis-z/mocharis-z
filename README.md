@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mocharis-z
 - 👀 I’m interested in linux networking and virtualization
-- 🌱 I’m currently learning website (html and css)
+- 🌱 I’m currently learning docker (laravel adn sql)
 - 💞️ I’m looking to collaborate on linux and web development 
 - 📫 How to reach me mo.hariszuhud@gmail.com
 
